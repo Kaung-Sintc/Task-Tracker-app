@@ -3,6 +3,9 @@
 ![demo-image](src/assets/images/task-tracker-demo.png)
 
 ## Project setup
+clone this repo `https://github.com/Kaung-Sintc/Task-Tracker-app.git` or download zip file
+###
+Install required dependencies
 ```
 npm install
 ```
