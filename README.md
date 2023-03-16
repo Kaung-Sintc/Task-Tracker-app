@@ -1,6 +1,6 @@
 # Task Tracker App with Vue js (Options API)
 
-![demo](src/assets/images/task-tracker-demo.png)
+![demo-image](src/assets/images/task-tracker-demo.png)
 
 ## Project setup
 ```
